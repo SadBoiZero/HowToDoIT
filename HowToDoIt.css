@@ -1,0 +1,22 @@
+.link{ 
+
+    background-color:rgba(42, 0, 110, 0.322)
+    color black
+
+
+
+}
+.Logo{ 
+
+    display: inline-block; 
+    background-color: rgba(105, 105, 105, 0.500);
+    border: 7px solid rgba(225, 145, 55, 0.500);
+    width: 69px;
+    color: black;
+}
+body{
+    
+    background-color: rgba(10, 104, 245, 0.541);
+
+
+}
